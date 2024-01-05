@@ -1,0 +1,6 @@
+closed_recall = 0.18054337354048064
+open_recall = 
+extractive_recall = 
+closed_precision = 0.04862439114355083
+open_precision = 
+extractive_precision = 
