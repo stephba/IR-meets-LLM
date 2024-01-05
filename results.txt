@@ -1,6 +1,6 @@
 closed_recall = 0.18054337354048064
-open_recall = 
+open_recall = 0.5485351136381676
 extractive_recall = 0.9275024108403873
 closed_precision = 0.04862439114355083
-open_precision = 
+open_precision = 0.0883897958657373
 extractive_precision = 0.9434086117813647
