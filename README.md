@@ -1,7 +1,7 @@
 # IR-meets-LLM
 
 ## Introduction
-The research and development of q&a models has risen dramatically in the past years. Through that reason, we want to explore the 3 main q&a models:
+The research and development of Q&A models has risen dramatically in the past years. Through that reason, we want to explore the 3 main Q&A models:
 - Extractive Model
 - Open Generative Model
 - Closed Generative Model
