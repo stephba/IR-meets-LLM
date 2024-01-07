@@ -6,7 +6,7 @@ The research and development of q&a models has risen dramatically in the past ye
 - Open Generative Model
 - Closed Generative Model
 
-and analyze its advantages and disadvantages, whereas we provide the most important passage from the context (Passage Ranking) to the extractive and the open generative model through a Bi-Encoder.
+and analyze its advantages and disadvantages, whereas we provide the most important passage from the context (Passage Ranking through Bi-Encoder) to the extractive and the open generative model.
 
 ## Research Question
 How do Extractive Models, Open Generative Models, and Closed Generative Models compare in terms of providing accurate answers based on given data? 
